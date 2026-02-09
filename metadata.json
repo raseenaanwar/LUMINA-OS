@@ -1,0 +1,7 @@
+{
+  "name": "LUMINA Bio-Architect OS",
+  "description": "A sophisticated circadian optimization platform that analyzes your environment via vision AI to align lighting, temperature, and stressors with your biological clock.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
